@@ -1,0 +1,8 @@
+{
+	"name": "FHC-Core-Casetime",
+	"description": "Casetime",
+	"version": "1",
+	"license": "GPLv3",
+	"url": "https://git.technikum-wien.at/systementwicklung/fhc-core-casetime",
+	"core_version": "3.3"
+}
