@@ -1,0 +1,14 @@
+h1, .usage {
+	text-align: center;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#languageSwitcherWidget {
+	width: 200px;
+	position: absolute;
+	right: 0px;
+}

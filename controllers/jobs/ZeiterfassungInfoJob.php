@@ -31,7 +31,7 @@ class ZeiterfassungInfoJob extends JOB_Controller
 		// Load models
 		$this->load->model('person/Benutzerfunktion_model', 'BenutzerfunktionModel');
 		$this->load->model('ressource/Mitarbeiter_model', 'MitarbeiterModel');
-		$this->load->model('extensions/FHC-Core-FHTW/Timesheet_model', 'TimesheetModel');
+		$this->load->model('extensions/FHC-Core-Casetime/Timesheet_model', 'TimesheetModel');
 		$this->load->model('ressource/Zeitaufzeichnung_model', 'ZeitaufzeichnungModel');
 		$this->load->model('ressource/Zeitsperre_model', 'ZeitsperreModel');
 		$this->load->model('system/Benutzerrolle_model', 'BenutzerrolleModel');
